@@ -1,7 +1,7 @@
 #### **My-Portfolio**
 
 ###### Technology used :
-> HTML
-> CSS
-> Bootstrap
-> Javascript
+> HTML <br />
+> CSS <br />
+> Bootstrap <br />
+> Javascript <br />
