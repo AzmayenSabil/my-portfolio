@@ -11,7 +11,7 @@ const Header = () => {
         <header className="header">
             <nav className="nav container">
 
-                <a href="index.html" className="nav__logo">Azmayen</a>
+                <a href="index.html" className="nav__logo">PORTFOLIO</a>
 
                 <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
                     <ul className="nav__list grid">
@@ -37,7 +37,7 @@ const Header = () => {
                         </li>
                         <li className="nav__item">
                             <a href="#portfolio" className="nav__link">
-                                <i className="uil uil-scenery nav__icon"></i> Portfolio
+                                <i className="uil uil-scenery nav__icon"></i> Resume
                             </a>
                         </li>
                         <li className="nav__item">
